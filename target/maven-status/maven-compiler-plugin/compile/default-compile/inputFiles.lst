@@ -5,6 +5,10 @@ C:\Users\HP\Desktop\Tugas Efal\Tugas Kuliah\CCIT\Semester 3\transaksi\src\main\j
 C:\Users\HP\Desktop\Tugas Efal\Tugas Kuliah\CCIT\Semester 3\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\barang\view\BarangNotFoundException.java
 C:\Users\HP\Desktop\Tugas Efal\Tugas Kuliah\CCIT\Semester 3\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\barang\view\BarangService.java
 C:\Users\HP\Desktop\Tugas Efal\Tugas Kuliah\CCIT\Semester 3\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\controller\AuthController.java
+C:\Users\HP\Desktop\Tugas Efal\Tugas Kuliah\CCIT\Semester 3\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\controller\JenisBarangController.java
+C:\Users\HP\Desktop\Tugas Efal\Tugas Kuliah\CCIT\Semester 3\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\controller\KaryawanController.java
+C:\Users\HP\Desktop\Tugas Efal\Tugas Kuliah\CCIT\Semester 3\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\controller\PelangganController.java
+C:\Users\HP\Desktop\Tugas Efal\Tugas Kuliah\CCIT\Semester 3\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\controller\PemasokController.java
 C:\Users\HP\Desktop\Tugas Efal\Tugas Kuliah\CCIT\Semester 3\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\controller\TokenFilter.java
 C:\Users\HP\Desktop\Tugas Efal\Tugas Kuliah\CCIT\Semester 3\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\controller\TransaksiController.java
 C:\Users\HP\Desktop\Tugas Efal\Tugas Kuliah\CCIT\Semester 3\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\DataAlreadyExistsException.java
@@ -14,6 +18,10 @@ C:\Users\HP\Desktop\Tugas Efal\Tugas Kuliah\CCIT\Semester 3\transaksi\src\main\j
 C:\Users\HP\Desktop\Tugas Efal\Tugas Kuliah\CCIT\Semester 3\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\jenisbarang\model\JenisBarangRepository.java
 C:\Users\HP\Desktop\Tugas Efal\Tugas Kuliah\CCIT\Semester 3\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\model\DetailTransaksi.java
 C:\Users\HP\Desktop\Tugas Efal\Tugas Kuliah\CCIT\Semester 3\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\model\DetailTransaksiId.java
+C:\Users\HP\Desktop\Tugas Efal\Tugas Kuliah\CCIT\Semester 3\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\model\Karyawan.java
+C:\Users\HP\Desktop\Tugas Efal\Tugas Kuliah\CCIT\Semester 3\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\model\KaryawanRepository.java
+C:\Users\HP\Desktop\Tugas Efal\Tugas Kuliah\CCIT\Semester 3\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\model\Pelanggan.java
+C:\Users\HP\Desktop\Tugas Efal\Tugas Kuliah\CCIT\Semester 3\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\model\PelangganRepository.java
 C:\Users\HP\Desktop\Tugas Efal\Tugas Kuliah\CCIT\Semester 3\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\model\Transaksi.java
 C:\Users\HP\Desktop\Tugas Efal\Tugas Kuliah\CCIT\Semester 3\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\model\TransaksiRepository.java
 C:\Users\HP\Desktop\Tugas Efal\Tugas Kuliah\CCIT\Semester 3\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\OpenApiConfig.java
@@ -21,5 +29,9 @@ C:\Users\HP\Desktop\Tugas Efal\Tugas Kuliah\CCIT\Semester 3\transaksi\src\main\j
 C:\Users\HP\Desktop\Tugas Efal\Tugas Kuliah\CCIT\Semester 3\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\pemasok\model\PemasokRepository.java
 C:\Users\HP\Desktop\Tugas Efal\Tugas Kuliah\CCIT\Semester 3\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\SecurityConfig.java
 C:\Users\HP\Desktop\Tugas Efal\Tugas Kuliah\CCIT\Semester 3\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\service\AuthService.java
+C:\Users\HP\Desktop\Tugas Efal\Tugas Kuliah\CCIT\Semester 3\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\service\JenisBarangService.java
+C:\Users\HP\Desktop\Tugas Efal\Tugas Kuliah\CCIT\Semester 3\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\service\KaryawanService.java
+C:\Users\HP\Desktop\Tugas Efal\Tugas Kuliah\CCIT\Semester 3\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\service\PelangganService.java
+C:\Users\HP\Desktop\Tugas Efal\Tugas Kuliah\CCIT\Semester 3\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\service\PemasokService.java
 C:\Users\HP\Desktop\Tugas Efal\Tugas Kuliah\CCIT\Semester 3\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\service\TransaksiService.java
 C:\Users\HP\Desktop\Tugas Efal\Tugas Kuliah\CCIT\Semester 3\transaksi\src\main\java\ui\ft\ccit\faculty\transaksi\TransaksiApplication.java
